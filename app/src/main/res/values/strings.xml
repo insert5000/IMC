@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IMC</string>
+
+    <string name="texto_peso">Peso</string>
+    <string name="texto_altura">Altura</string>
+    <string name="boton_calcular">CALCULAR</string>
+    <string name="texto_imc">Su IMC es:</string>
+    <string name="patricio">Recomendacion</string>
+    <string name="titulo">CALCULADOR DE IMC</string>
+    <string name="recon">Recomendacion:</string>
+    <string name="texto1">Su peso esta está dentro de los valores correspondientes a “bajo peso”</string>
+    <string name="texto2">Su peso está dentro de los valores “normales” o de peso saludable.</string>
+    <string name="texto3">Su peso está dentro de los valores correspondientes a “sobrepeso”.</string>
+    <string name="texto4">Su peso está dentro de los valores de “obesidad”.</string>
+
+</resources>

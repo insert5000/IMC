@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="texto_peso">Weight</string>
+    <string name="texto_altura">" Height"</string>
+    <string name="boton_calcular">CALCULATE</string>
+    <string name="texto_imc">" Your bmi is:"</string>
+    <string name="patricio">Recommendation</string>
+    <string name="titulo">CALCULATE BMI</string>
+    <string name="recon">" Recommendation:"</string>
+    <string name="texto1">" Its weight is within the values ​​corresponding to \"underweight\"."</string>
+    <string name="texto2">" Your weight is within “normal” or healthy weight ranges."</string>
+    <string name="texto3">" Your weight is within the values ​​for “overweight”."</string>
+    <string name="texto4">" Your weight is within the \"obesity\" range."</string>
+</resources>
